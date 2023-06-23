@@ -32,7 +32,7 @@ English:
 - Display: Show the total fee.
 - Localization: Support German language for prompts and messages.
 - Error Handling: Handle any invalid inputs and provide appropriate error messages.
-- 
+
 German (Deutsch):
 
 - Eingabe: Benutzer kann die Anzahl der Stunden eingeben.
