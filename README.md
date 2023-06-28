@@ -55,5 +55,8 @@ German (Deutsch):
 ![image](https://github.com/KOTTG4/Course-Fee-Calculator/assets/116221777/7b2dfa92-da65-4db3-98f8-14731b466b20)
 
 
+![Web capture_29-6-2023_02411_localhost](https://github.com/KOTTG4/Course-Fee-Calculator/assets/116221777/78d93d0b-6441-4828-b8f3-dfeff2b22146)
+![Web capture_29-6-2023_02336_localhost](https://github.com/KOTTG4/Course-Fee-Calculator/assets/116221777/8e28af2d-1787-460b-8644-3bb9f2c65f5d)
+![Web capture_29-6-2023_02353_localhost](https://github.com/KOTTG4/Course-Fee-Calculator/assets/116221777/d4a0e46e-9d4e-40fa-b1ef-ba6a21831f13)
 
 
